@@ -2,7 +2,7 @@
 
 This project is a low-cost, multi-wavelength spectrophotometer built using off-the-shelf electronic components and a microcontroller. It measures the absorbance of liquid samples by shining selectable LED wavelengths through a cuvette and capturing the transmitted light with a photodiode.
 
-Over the course of three weeks, the system was fully designed, built, and tested — integrating analog signal conditioning, embedded ADC sampling, and a custom Python interface for real-time data visualization and calibration.
+Over the course of three weeks, the system was fully designed, built, and tested - integrating analog signal conditioning, embedded ADC sampling, and a custom Python interface for real-time data visualization and calibration.
 
 ## Features
 
